@@ -1,0 +1,9 @@
+-You need to run the composer command to load vendor folder using install composer command.
+- You need to run migrate all table using php artisan:migrate command.
+- After succefully migrate all tabel you need to run seeder to instert hours slots using php artisan db:seed --class=TimeSlotSeeder command.
+- You need to register in the web application.
+- Then You can login with the same credentials.
+- You can select any hours slots from the list and add user data.
+- You can display allocated slots in the red color and you can edit the details.
+- You can clear the all slots clicking on clear button.
+- Also You I have created API for the same.
