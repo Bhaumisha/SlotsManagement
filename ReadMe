@@ -1,4 +1,5 @@
--You need to run the composer command to load vendor folder using install composer command.
+- You need to take a clone of my project from giving url and setup in to ypur system.
+- You need to run the composer command to load vendor folder using install composer command.
 - You need to run migrate all table using php artisan:migrate command.
 - After succefully migrate all tabel you need to run seeder to instert hours slots using php artisan db:seed --class=TimeSlotSeeder command.
 - You need to register in the web application.
